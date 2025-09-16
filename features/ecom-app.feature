@@ -1,4 +1,4 @@
-Feature: Verify E-Commerce App functionality on WishInfinite
+Feature: Verify E-Commerce App functionality on WishInfinite.com
 
   Scenario: Verify Successful login with valid credentials
     Given I navigate to the E-Commerce App under the Playground tab

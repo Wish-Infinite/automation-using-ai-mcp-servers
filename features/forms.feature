@@ -1,4 +1,4 @@
-Feature: Verify Form Functionality on WishInfinite
+Feature: Verify Form Functionality on WishInfinite.com
 
  Scenario: Verify successful form submission with valid data
     Given I navigate to the Forms section under the Playground tab
